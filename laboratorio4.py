@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 # IE-0117 Programación Bajo Plataformas Abiertas
-# Francisco Moya Mena
-# Carnet A74449
 # Creación de clase para representar un vector de n elementos
 
 
